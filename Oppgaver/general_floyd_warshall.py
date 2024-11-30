@@ -16,20 +16,16 @@ sys.set_int_max_str_digits(10**6)
 # ta litt tid å kjøre alle de 500 ekstra testene.
 use_extra_tests = False
 
-
-
 def general_floyd_warshall(D, n, f, g):
     for k in range(n):
         for i in range(n):
             for j in range(n):
                     D[i][j] = f(D[i][j], g(D[i][k], D[k][j]))
 
-
 class Operator:
     def __init__(self, name, function):
         self.name = name
         self.function = function
-
 
 # Hardkodete tester på format: (D, f, g, svar)
 tests = [
