@@ -1,6 +1,7 @@
 # !/usr/bin/python3
 # coding=utf-8
-
+print("hellO")
+print("hello")
 # Testsettet på serveren er større og mer omfattende enn dette.
 # Hvis programmet ditt fungerer lokalt, men ikke når du laster det opp,
 # er det gode sjanser for at det er tilfeller du ikke har tatt høyde for.
