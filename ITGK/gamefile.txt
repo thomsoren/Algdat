@@ -1,0 +1,6 @@
+PS2;Gran Turismo 4;Final Fantasy X;Ico
+GameCube;Metroid Prime;Resident Evil 4;Super Mario Sunshine
+XBOX;Halo:Combat Evolved;Project Gotham Racing
+PS2;SSX;Okami;Shadow of the Colossus
+GameCube;Mario Kart:Double Dash!;Super Smash Bros.Melee
+XBOX;Fable;Halo 2

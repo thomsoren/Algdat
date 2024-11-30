@@ -20,10 +20,9 @@ use_extra_tests = False
 
 def general_floyd_warshall(D, n, f, g):
     for k in range(n):
-        D[:] = [
-            [f(D[i][j], g(D[i][k], D[k][j])) for j in range(n)]
-            for i in range(n)
-        ]
+        for i in range(n):
+            for j in range(n):
+                    D[i][j] = f(D[i][j], g(D[i][k], D[k][j]))
 
 
 class Operator:

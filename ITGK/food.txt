@@ -1,0 +1,4 @@
+pannekaker: egg, mel, salt, melk
+grandiosa: grandiosa
+paprikasaus: sjalottløk, hvitløk, olje, buljong, smør, salt, pepper
+omelett: egg, vann, salt, smør, skinke, hvitost, paprika

@@ -1,0 +1,25 @@
+Børge
+e:23,26,22,18
+f:27,19,33,28,25,21
+h:25,20
+g:22,27,23,26,30
+i:30,18,21,29,24,19,27
+---
+Sara
+e:21,18
+k:31,24,20,22,26
+h:19,27,28,23
+r:26,30,17
+i:28,31,16,24,25,29
+---
+Lars
+e:28,30,32,25,27,29
+f:23,26,22,32,21,18,19
+---
+Raskest for e er Børge, Sara med 18
+Raskest for k er Sara med 20
+Raskest for g er Børge med 22
+Raskest for r er Sara med 17
+Raskest for f er Lars med 18
+Raskest for i er Sara med 16
+Raskest for h er Sara med 19
